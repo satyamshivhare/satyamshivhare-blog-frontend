@@ -1,0 +1,15 @@
+.banner-div{
+    width:100%;
+    height:65vh;
+    background-color: red;
+    padding-top: 5rem;
+    position: relative;
+    z-index: -1;
+}
+
+
+.banner-photo-div{
+    width:100%;
+    height: 100%;
+    background-color: rgba(238, 130, 238, 0.555);
+}
